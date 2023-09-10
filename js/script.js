@@ -11,12 +11,12 @@ const people = [
     },
     {
         name:"Gaurav Singh Bhakuni",
-        hobby:"lorem5",
+        hobby:"Football",
         image:"images/gaurav_singh_bhakuni.jpg"
     },
     {
         name:"Nikhil Giri",
-        hobby:"lorem ",
+        hobby:"Swimming",
         image:"images/nikhil_giri.jpg"
     },
     {
