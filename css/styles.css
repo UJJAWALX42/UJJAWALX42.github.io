@@ -1,4 +1,3 @@
-/* Style for cards */
 body{
     background-color:rgb(34, 34, 34);
 }
@@ -19,8 +18,6 @@ img{
     text-align: center;
     box-shadow: 0 0 50px rgba(245, 32, 32, 0.2);
 }
-
-/* Add more styles for responsiveness */
 @media (min-width: 768px) {
     .container {
         display: flex;
@@ -30,6 +27,6 @@ img{
 
     .card {
         width: calc(50% - 100px);
-        justify-content: center; /* Adjust as needed */
+        justify-content: center;
     }
 }
