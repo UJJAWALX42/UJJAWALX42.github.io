@@ -51,7 +51,6 @@ const people = [
     }
 ];
 
-// Generate cards dynamically and append them to the container
 const container = document.querySelector(".container");
 
 people.forEach(person => {
