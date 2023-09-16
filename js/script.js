@@ -16,7 +16,7 @@ const people = [
     },
     {
         name:"Nikhil Giri",
-        hobby:"Swimming",
+        hobby:"Guitar",
         image:"images/nikhil_giri.jpg"
     },
     {
